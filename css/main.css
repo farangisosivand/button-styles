@@ -10,8 +10,36 @@ html {
 div {
   padding: .5rem;
   text-align: center;
+  display: block;
 }
 
 body {
   background-color: #fff;
+}
+
+.btn {
+  padding: .4em;
+  border-radius: 8px;
+  border-width: 3px;
+  font-size: 1.125rem;
+  color: #ccc;
+  background-color: #333;
+}
+
+.btn-small {
+  padding: .75em;
+  border-radius: 8px;
+  border-width: 3px;
+  font-size: .875rem;
+  color: #ccc;
+  background-color: #333;
+}
+
+.btn-big {
+  padding: .3em;
+  border-radius: 8px;
+  border-width: 3px;
+  font-size: 1.5rem;
+  color: #ccc;
+  background-color: #333;
 }
