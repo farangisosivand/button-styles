@@ -8,7 +8,8 @@ html {
 }
 
 div {
-  padding: .75em .4em .3em;
+  margin: 0;
+  padding: .4em .75em .3em;
   text-align: center;
   display: block;
 }
