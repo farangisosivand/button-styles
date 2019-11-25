@@ -18,6 +18,7 @@ body {
 }
 
 .btn {
+  display: inline-block;
   margin: 0;
   padding: .4em;
   border-radius: 8px;
@@ -33,6 +34,7 @@ body {
 }
 
 .btn-small {
+  display: inline-block;
   margin: 0;
   padding: .3em;
   border-radius: 8px;
@@ -48,6 +50,7 @@ body {
 }
 
 .btn-big {
+  display: inline-block;
   margin: 0;
   padding: .75em;
   border-radius: 8px;
@@ -63,6 +66,7 @@ body {
 }
 
 .btn-subtle {
+  display: inline-block;
   margin: 0;
   padding: .4em;
   border-radius: 8px;
@@ -78,6 +82,7 @@ body {
 }
 
 .btn-ghost {
+  display: inline-block;
   margin: 0;
   padding: .4em;
   border-radius: 8px;
@@ -94,6 +99,7 @@ body {
 }
 
 .btn-warning {
+  display: inline-block;
   margin: 0;
   padding: .4em;
   border-radius: 8px;
@@ -109,6 +115,7 @@ body {
 }
 
 .btn-subtle-small {
+  display: inline-block;
   margin: 0;
   padding: .3em;
   border-radius: 8px;
@@ -124,6 +131,7 @@ body {
 }
 
 .btn-ghost-small {
+  display: inline-block;
   margin: 0;
   padding: .3em;
   border-radius: 8px;
@@ -140,6 +148,7 @@ body {
 }
 
 .btn-warning-small {
+  display: inline-block;
   margin: 0;
   padding: .3em;
   border-radius: 8px;
@@ -155,6 +164,7 @@ body {
 }
 
 .btn-subtle-big {
+  display: inline-block;
   margin: 0;
   padding: .75em;
   border-radius: 8px;
@@ -170,6 +180,7 @@ body {
 }
 
 .btn-ghost-big {
+  display: inline-block;
   margin: 0;
   padding: .75em;
   border-radius: 8px;
@@ -182,6 +193,7 @@ body {
 }
 
 .btn-warning-big {
+  display: inline-block;
   margin: 0;
   padding: .75em;
   border-radius: 8px;
