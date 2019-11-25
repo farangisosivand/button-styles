@@ -8,10 +8,8 @@ html {
 }
 
 div {
-  margin: 0;
   padding: .4em .75em .3em;
   text-align: center;
-  display: block;
 }
 
 body {
@@ -34,7 +32,7 @@ body {
   background-color: #000;
 }
 
-.btn-small {
+.btn {
   display: inline-block;
   margin: 0;
   padding: .3em;
@@ -46,14 +44,14 @@ body {
   text-decoration: none;
 }
 
-.btn-small:hover {
+.btn:hover {
   background-color: #000;
 }
 
-.btn-big {
+.btn {
   display: inline-block;
   margin: 0;
-  padding: .75em;
+  padding: .3em;
   border-radius: 8px;
   border-width: 3px;
   font-size: 1.5rem;
@@ -62,7 +60,7 @@ body {
   text-decoration: none;
 }
 
-.btn-big:hover {
+.btn:hover {
   background-color: #000;
 }
 
@@ -115,7 +113,7 @@ body {
   background-color: #933;
 }
 
-.btn-subtle-small {
+.btn-subtle {
   display: inline-block;
   margin: 0;
   padding: .3em;
@@ -127,11 +125,11 @@ body {
   text-decoration: none;
 }
 
-.btn-subtle-small:hover {
+.btn-subtle:hover {
   background-color: #666;
 }
 
-.btn-ghost-small {
+.btn-ghost {
   display: inline-block;
   margin: 0;
   padding: .3em;
@@ -144,11 +142,11 @@ body {
   text-decoration: none;
 }
 
-.btn-ghost-small:hover {
+.btn-ghost:hover {
   background-color: #666;
 }
 
-.btn-warning-small {
+.btn-warning {
   display: inline-block;
   margin: 0;
   padding: .3em;
@@ -160,11 +158,11 @@ body {
   text-decoration: none;
 }
 
-.btn-warning-small:hover {
+.btn-warning:hover {
   background-color: #933;
 }
 
-.btn-subtle-big {
+.btn-subtle {
   display: inline-block;
   margin: 0;
   padding: .75em;
@@ -176,11 +174,11 @@ body {
   text-decoration: none;
 }
 
-.btn-subtle-big:hover {
+.btn-subtle:hover {
   background-color: #666;
 }
 
-.btn-ghost-big {
+.btn-ghost {
   display: inline-block;
   margin: 0;
   padding: .75em;
@@ -193,7 +191,7 @@ body {
   text-decoration: none;
 }
 
-.btn-warning-big {
+.btn-warning {
   display: inline-block;
   margin: 0;
   padding: .75em;
@@ -205,6 +203,39 @@ body {
   text-decoration: none;
 }
 
-.btn-warning-big:hover {
+.btn-warning:hover {
   background-color: #933;
+}
+
+.btn-small {
+  display: inline-block;
+  margin: 0;
+  padding: .75em;
+  border-radius: 8px;
+  border-width: 3px;
+  font-size: 1.5rem;
+  color: #fff;
+  background-color: #333;
+  text-decoration: none;
+}
+
+.btn-small:hover {
+  background-color: #000;
+}
+
+.btn-big {
+  display: inline-block;
+  margin: 0;
+  padding: .75em;
+  border-radius: 8px;
+  border-width: 3px;
+  font-size: 1.5rem;
+  color: #fff;
+  background-color: #333;
+  border-style: solid;
+  text-decoration: none;
+}
+
+.btn-big:hover {
+  background-color: #000;
 }
