@@ -32,7 +32,7 @@ body {
   background-color: #000;
 }
 
-.btn {
+.btn-small {
   display: inline-block;
   margin: 0;
   padding: .3em;
@@ -44,27 +44,11 @@ body {
   text-decoration: none;
 }
 
-.btn:hover {
+.btn-small:hover {
   background-color: #000;
 }
 
-.btn {
-  display: inline-block;
-  margin: 0;
-  padding: .3em;
-  border-radius: 8px;
-  border-width: 3px;
-  font-size: 1.5rem;
-  color: #fff;
-  background-color: #333;
-  text-decoration: none;
-}
-
-.btn:hover {
-  background-color: #000;
-}
-
-.btn-subtle {
+.btn-subtle1 {
   display: inline-block;
   margin: 0;
   padding: .4em;
@@ -80,7 +64,7 @@ body {
   background-color: #666;
 }
 
-.btn-ghost {
+.btn-ghost1 {
   display: inline-block;
   margin: 0;
   padding: .4em;
@@ -97,7 +81,7 @@ body {
   background-color: #666;
 }
 
-.btn-warning {
+.btn-warning1 {
   display: inline-block;
   margin: 0;
   padding: .4em;
@@ -113,7 +97,7 @@ body {
   background-color: #933;
 }
 
-.btn-subtle {
+.btn-subtle2 {
   display: inline-block;
   margin: 0;
   padding: .3em;
@@ -129,7 +113,7 @@ body {
   background-color: #666;
 }
 
-.btn-ghost {
+.btn-ghost2 {
   display: inline-block;
   margin: 0;
   padding: .3em;
@@ -146,7 +130,7 @@ body {
   background-color: #666;
 }
 
-.btn-warning {
+.btn-warning2 {
   display: inline-block;
   margin: 0;
   padding: .3em;
@@ -162,7 +146,7 @@ body {
   background-color: #933;
 }
 
-.btn-subtle {
+.btn-subtle3 {
   display: inline-block;
   margin: 0;
   padding: .75em;
@@ -178,7 +162,7 @@ body {
   background-color: #666;
 }
 
-.btn-ghost {
+.btn-ghost3 {
   display: inline-block;
   margin: 0;
   padding: .75em;
@@ -191,7 +175,7 @@ body {
   text-decoration: none;
 }
 
-.btn-warning {
+.btn-warning3 {
   display: inline-block;
   margin: 0;
   padding: .75em;
